@@ -1,2 +1,31 @@
 # egg-wxcloud
-使用微信小程序云托管服务部署 Egg 应用的 Demo 
+
+egg for wechat minapp cloud
+
+## QuickStart
+
+<!-- add docs here for user -->
+
+see [egg docs][egg] for more detail.
+
+### Development
+
+```bash
+npm i
+npm run dev
+open http://localhost:7001/
+```
+
+### Deploy
+
+```bash
+npm start
+npm stop
+```
+
+### npm scripts
+
+- Use `npm run lint` to check code style.
+- Use `npm test` to run unit test.
+
+[egg]: https://eggjs.org
